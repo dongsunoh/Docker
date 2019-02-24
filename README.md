@@ -2,7 +2,7 @@
   > This project is Study Docker.
   > - study reference link : https://docs.docker.com/get-started/
 
-## Get Started
+## 1. Get Started
  - [ ] Part 1: Orientation and setup
   > - date : 
  - [ ] Part 2:
